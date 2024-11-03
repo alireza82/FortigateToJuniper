@@ -38,7 +38,7 @@ Update the FortiGate connection details in the script:
 - `VDOM`: The VDOM (Virtual Domain) name to fetch interfaces from.
 
 ## Usage
-Run the script to fetch FortiGate interfaces and convert them to Juniper CLI commands:
+Run the script to fetch FortiGate configuration and convert them to Juniper CLI commands:
 ```bash
 python converter.py
 ```
