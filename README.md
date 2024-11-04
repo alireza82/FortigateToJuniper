@@ -50,3 +50,5 @@ Upon successful execution, the Juniper CLI commands will be printed in the conso
 ## Disclaimer
 This tool is provided "as is" without any warranties, express or implied. The authors and contributors are not responsible for any potential damages or misconfigurations resulting from the use of this tool. It is recommended to review the generated configurations before applying them to any production environment.
 
+## Blog
+https://arabiyan.ir
